@@ -1,0 +1,152 @@
+[
+  {
+    "userId": "617660a44c4250001275c807",
+    "userName": "Ralph Poole",
+    "vacations": [
+      {
+        "start": "2021-11-02",
+        "end": "2021-11-02"
+      }
+    ]
+  },
+  {
+    "userId": "6177b1884c4250001275d6f8",
+    "userName": "Keiran Haney",
+    "vacations": [
+      {
+        "start": "2021-11-15",
+        "end": "2021-11-19"
+      }
+    ]
+  },
+  {
+    "userId": "61823e97ac15350011f7fcea",
+    "userName": "Tahlia Kelly",
+    "vacations": [
+      {
+        "start": "2021-11-04",
+        "end": "2021-11-05"
+      },
+      {
+        "start": "2021-12-13",
+        "end": "2021-12-13"
+      }
+    ]
+  },
+  {
+    "userId": "618d2e6eac15350011f833eb",
+    "userName": "Edna Ramsey",
+    "vacations": [
+      {
+        "start": "2021-11-29",
+        "end": "2021-12-10"
+      }
+    ]
+  },
+  {
+    "userId": "619394943a8533001285e7fb",
+    "userName": "Gloria Winter",
+    "vacations": [
+      {
+        "start": "2021-11-22",
+        "end": "2021-11-22"
+      }
+    ]
+  },
+  {
+    "userId": "619434303a8533001285f100",
+    "userName": "Conrad Boyd",
+    "vacations": [
+      {
+        "start": "2021-11-22",
+        "end": "2021-11-22"
+      },
+      {
+        "start": "2021-10-20",
+        "end": "2021-10-22"
+      },
+      {
+        "start": "2021-12-01",
+        "end": "2021-12-01"
+      }
+    ]
+  },
+  {
+    "userId": "619602f13a8533001285fb95",
+    "userName": "Clementine Maddox",
+    "vacations": [
+      {
+        "start": "2021-12-01",
+        "end": "2021-12-05"
+      }
+    ]
+  },
+  {
+    "userId": "6196a33a3a853300128602eb",
+    "userName": "Gracie Joyce",
+    "vacations": [
+      {
+        "start": "2021-11-19",
+        "end": "2021-11-23"
+      },
+      {
+        "start": "2021-12-10",
+        "end": "2021-12-12"
+      }
+    ]
+  },
+  {
+    "userId": "61a3c3bb3a85330012864b5b",
+    "userName": "Homer Siers",
+    "vacations": [
+      {
+        "start": "2021-12-09",
+        "end": "2021-12-10"
+      }
+    ]
+  },
+  {
+    "userId": "61a63af23a853300128672fa",
+    "userName": "Willie Turner",
+    "vacations": [
+      {
+        "start": "2021-12-01",
+        "end": "2021-12-01"
+      }
+    ]
+  },
+  {
+    "userId": "61b11cfc3a8533001286e862",
+    "userName": "Gabriel Savage",
+    "vacations": [
+      {
+        "start": "2021-12-10",
+        "end": "2021-12-10"
+      }
+    ]
+  },
+  {
+    "userId": "61b36ff43a853300128734fb",
+    "userName": "Freddie Roman",
+    "vacations": [
+      {
+        "start": "2021-12-14",
+        "end": "2021-12-14"
+      },
+      {
+        "start": "2021-12-14",
+        "end": "2021-12-14"
+      }
+    ]
+  },
+  {
+    "userId": "61b3700b3a85330012873568",
+    "userName": "Aron Hansen",
+    "vacations": [
+      {
+        "start": "2021-12-14",
+        "end": "2021-12-14"
+      }
+    ]
+  }
+]
